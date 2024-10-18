@@ -1,2 +1,2 @@
 # Mieli-Toihin-Simulaatio
-https://github.com/SamuKauppi/Mieli-T-ihin-Simulaatio.git
+Mieli Töihin Simulaatio is a browser game that I created during my apprenticeship at Mieli Töihin® -valmennusyksikkö
