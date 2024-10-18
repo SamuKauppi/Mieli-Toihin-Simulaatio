@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OhjeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8f96e3d6118fd6948958d9eb6e6b58d6, type: 3}
+    - {fileID: 2800000, guid: 7ad7965f68311844793859ea8dd3d696, type: 3}
+    - {fileID: 2800000, guid: 7e188024ae7d93b40a3b4f47d30509e9, type: 3}
+    - {fileID: 2800000, guid: 01d98bcdff6ed794392fc3c9c32a0e2f, type: 3}
+    - {fileID: 2800000, guid: 9f9bb9b631b34fc4c8fce58d6b013703, type: 3}
+    - {fileID: 2800000, guid: f3bbb346d9e96904f8c672f4fde3f701, type: 3}
+    - {fileID: 2800000, guid: 12318624fa8a41140ac4bc77e47306dc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7e188024ae7d93b40a3b4f47d30509e9, type: 3}
+  - {fileID: 21300000, guid: 12318624fa8a41140ac4bc77e47306dc, type: 3}
+  - {fileID: 21300000, guid: f3bbb346d9e96904f8c672f4fde3f701, type: 3}
+  - {fileID: 21300000, guid: 9f9bb9b631b34fc4c8fce58d6b013703, type: 3}
+  - {fileID: 21300000, guid: 8f96e3d6118fd6948958d9eb6e6b58d6, type: 3}
+  - {fileID: 21300000, guid: 01d98bcdff6ed794392fc3c9c32a0e2f, type: 3}
+  - {fileID: 21300000, guid: 7ad7965f68311844793859ea8dd3d696, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ohje3
+  - Ohje9
+  - Ohje8
+  - Ohje7
+  - Ohje1
+  - Ohje4
+  - Ohje2
+  m_RenderDataMap: {}
+  m_Tag: OhjeAtlas
+  m_IsVariant: 0
